@@ -5,6 +5,9 @@
 ## 1: Self-Similiarizing Systems (Quantization / Evangelism)
 * Careful with things that can be seen as a chart or have similar layouts, ie ☢️.
 
+## 2: Social Vectors 
+* Careful with the proximity of organization's front facing naming conventions and members, it might be seen as a vote.
+
 ## 4: Extreme Information Asymmetry Data
 * Careful with using body parts emojis, they might be used for data transfer.
 
